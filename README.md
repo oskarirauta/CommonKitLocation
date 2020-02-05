@@ -2,7 +2,9 @@
 Location support for CommonKit
 
 ### CocoaPods
-CommonKit is now available through CocoaPods.
+CommonKitLocation is location support code from CommonKit.
+Can also be used as a standalone framework, without CommonKit.
+
 Here's a sample Podfile:
 ```
 source 'https://github.com/CocoaPods/Specs.git'
